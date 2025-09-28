@@ -22,7 +22,9 @@ This repo documents my hands-on labs with **AWS Bedrock** and **LangChain**, sho
 
 ### 🔹 Task 1a: Streaming Model Responses  
 - Learned how Bedrock models stream responses in chunks.  
-- ✅ *Screenshot:* ![Streaming Chunks](screenshots/03_Task1a_StreamingChunks.png)
+- ✅ *Screenshot:* 
+<img width="1495" height="898" alt="03_Task1a_StreamingChunks" src="https://github.com/user-attachments/assets/88da9e2a-3926-4372-b67a-34a46ee92ac1" />
+
 
 ### 🔹 Task 1b: Token Counting + Responses  
 - Measured tokens for a given prompt, ran the model, and compared output.  
