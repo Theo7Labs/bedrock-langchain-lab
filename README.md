@@ -42,7 +42,7 @@ This repo documents my hands-on labs with **AWS Bedrock** and **LangChain**, sho
 ### 🔹 Task 2b: Summarization Function  
 - Wrote a function to handle summarization automatically.  
 - ✅ *Screenshots:*  
-  -  ![Run <img width="1507" height="885" alt="07_Task2b_Main_Function" src="https://github.com/user-attachments/assets/eebfc10c-bb86-457c-996f-cf7e515bb285" />
+  - <img width="1507" height="885" alt="07_Task2b_Main_Function" src="https://github.com/user-attachments/assets/eebfc10c-bb86-457c-996f-cf7e515bb285" />
   -<img width="1317" height="905" alt="08_Tasl2b_Run_Summarizaton" src="https://github.com/user-attachments/assets/5da902e2-ea82-452f-ae83-a0c84a8a60f4" />
 
 ### 🔹 Task 3: JSON + Environment Setup  
